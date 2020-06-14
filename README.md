@@ -1,2 +1,2 @@
-# fosee
-Project for fosee scholarship
+# fossee
+Project for fossee scholarship
